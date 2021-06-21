@@ -13,7 +13,18 @@ This repository is for eBay product retrieval.
 
 If you use this code in your research, please cite
 ```
-
+@article{Zhuo-PNP-arxiv,
+  author    = {Zhuo Li and
+               Weiqing Min and
+               Jiajun Song and
+               Yaohui Zhu and
+               Shuqiang Jiang},
+  title     = {Rethinking Ranking-based Loss Functions: Only Penalizing Negative
+               Instances before Positive Ones is Enough},
+  journal   = {CoRR},
+  volume    = {abs/2102.04640},
+  year      = {2021},
+}
 ```
 
 ---
